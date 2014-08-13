@@ -1,0 +1,14 @@
+﻿<xapCache source="C:\Users\Gero\documents\visual studio 2013\Projects\SamplePlayer\SamplePlayer\Bin\Debug\SamplePlayer_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="7/31/2014 1:48:44 PM">
+  <file source="C:\Users\Gero\documents\visual studio 2013\Projects\SamplePlayer\SamplePlayer\obj\Debug\SamplePlayer.dll" archivePath="SamplePlayer.dll" lastWriteTime="7/31/2014 1:48:43 PM" />
+  <file source="C:\Users\Gero\documents\visual studio 2013\Projects\SamplePlayer\SamplePlayer\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="7/30/2014 9:47:13 AM" />
+  <file source="C:\Users\Gero\documents\visual studio 2013\Projects\SamplePlayer\SamplePlayer\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="7/30/2014 9:47:13 AM" />
+  <file source="C:\Users\Gero\documents\visual studio 2013\Projects\SamplePlayer\SamplePlayer\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="7/30/2014 9:47:13 AM" />
+  <file source="C:\Users\Gero\documents\visual studio 2013\Projects\SamplePlayer\SamplePlayer\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="7/30/2014 9:47:13 AM" />
+  <file source="C:\Users\Gero\documents\visual studio 2013\Projects\SamplePlayer\SamplePlayer\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="7/30/2014 9:47:13 AM" />
+  <file source="C:\Users\Gero\documents\visual studio 2013\Projects\SamplePlayer\SamplePlayer\Audio\Top Gear Theme Song.mp3" archivePath="Audio\Top Gear Theme Song.mp3" lastWriteTime="7/31/2014 12:51:47 PM" />
+  <file source="C:\Users\Gero\documents\visual studio 2013\Projects\SamplePlayer\SamplePlayer\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="7/31/2014 1:44:23 PM" />
+  <file source="C:\Users\Gero\documents\visual studio 2013\Projects\SamplePlayer\SamplePlayer\Bin\Debug\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="7/30/2014 9:47:13 AM" />
+  <file source="C:\Users\Gero\documents\visual studio 2013\Projects\SamplePlayer\SamplePlayer\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="7/30/2014 9:47:13 AM" />
+  <file source="C:\Users\Gero\documents\visual studio 2013\Projects\SamplePlayer\MyAudioPlaybackAgent\Bin\Debug\MyAudioPlaybackAgent.dll" archivePath="MyAudioPlaybackAgent.dll" lastWriteTime="7/31/2014 1:48:42 PM" />
+  <file source="C:\Users\Gero\documents\visual studio 2013\Projects\SamplePlayer\SamplePlayer\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="7/31/2014 1:48:44 PM" />
+</xapCache>

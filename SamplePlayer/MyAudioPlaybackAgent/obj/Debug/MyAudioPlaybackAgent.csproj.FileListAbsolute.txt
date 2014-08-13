@@ -1,0 +1,4 @@
+C:\Users\Gero\documents\visual studio 2013\Projects\SamplePlayer\MyAudioPlaybackAgent\Bin\Debug\MyAudioPlaybackAgent.dll
+C:\Users\Gero\documents\visual studio 2013\Projects\SamplePlayer\MyAudioPlaybackAgent\Bin\Debug\MyAudioPlaybackAgent.pdb
+C:\Users\Gero\documents\visual studio 2013\Projects\SamplePlayer\MyAudioPlaybackAgent\obj\Debug\MyAudioPlaybackAgent.dll
+C:\Users\Gero\documents\visual studio 2013\Projects\SamplePlayer\MyAudioPlaybackAgent\obj\Debug\MyAudioPlaybackAgent.pdb

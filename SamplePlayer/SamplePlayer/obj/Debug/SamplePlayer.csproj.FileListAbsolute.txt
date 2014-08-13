@@ -1,0 +1,23 @@
+c:\users\gero\documents\visual studio 2013\Projects\SamplePlayer\SamplePlayer\Bin\Debug\Assets\ApplicationIcon.png
+c:\users\gero\documents\visual studio 2013\Projects\SamplePlayer\SamplePlayer\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+c:\users\gero\documents\visual studio 2013\Projects\SamplePlayer\SamplePlayer\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+c:\users\gero\documents\visual studio 2013\Projects\SamplePlayer\SamplePlayer\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+c:\users\gero\documents\visual studio 2013\Projects\SamplePlayer\SamplePlayer\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+c:\users\gero\documents\visual studio 2013\Projects\SamplePlayer\SamplePlayer\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+c:\users\gero\documents\visual studio 2013\Projects\SamplePlayer\SamplePlayer\Bin\Debug\SamplePlayer.dll
+c:\users\gero\documents\visual studio 2013\Projects\SamplePlayer\SamplePlayer\Bin\Debug\SamplePlayer.pdb
+c:\users\gero\documents\visual studio 2013\Projects\SamplePlayer\SamplePlayer\Bin\Debug\AppManifest.xaml
+c:\users\gero\documents\visual studio 2013\Projects\SamplePlayer\SamplePlayer\Bin\Debug\Properties\WMAppManifest.xml
+c:\users\gero\documents\visual studio 2013\Projects\SamplePlayer\SamplePlayer\Bin\Debug\SamplePlayer_Debug_AnyCPU.xap
+c:\users\gero\documents\visual studio 2013\Projects\SamplePlayer\SamplePlayer\obj\Debug\App.g.cs
+c:\users\gero\documents\visual studio 2013\Projects\SamplePlayer\SamplePlayer\obj\Debug\MainPage.g.cs
+c:\users\gero\documents\visual studio 2013\Projects\SamplePlayer\SamplePlayer\obj\Debug\SamplePlayer.g.resources
+c:\users\gero\documents\visual studio 2013\Projects\SamplePlayer\SamplePlayer\obj\Debug\SamplePlayer.Resources.AppResources.resources
+c:\users\gero\documents\visual studio 2013\Projects\SamplePlayer\SamplePlayer\obj\Debug\SamplePlayer.csproj.GenerateResource.Cache
+c:\users\gero\documents\visual studio 2013\Projects\SamplePlayer\SamplePlayer\obj\Debug\SamplePlayer.dll
+c:\users\gero\documents\visual studio 2013\Projects\SamplePlayer\SamplePlayer\obj\Debug\SamplePlayer.pdb
+c:\users\gero\documents\visual studio 2013\Projects\SamplePlayer\SamplePlayer\obj\Debug\XapCacheFile.xml
+C:\Users\Gero\documents\visual studio 2013\Projects\SamplePlayer\SamplePlayer\Bin\Debug\Audio\Top Gear Theme Song.mp3
+C:\Users\Gero\documents\visual studio 2013\Projects\SamplePlayer\SamplePlayer\Bin\Debug\MyAudioPlaybackAgent.dll
+C:\Users\Gero\documents\visual studio 2013\Projects\SamplePlayer\SamplePlayer\Bin\Debug\MyAudioPlaybackAgent.pdb
+C:\Users\Gero\documents\visual studio 2013\Projects\SamplePlayer\SamplePlayer\obj\Debug\SamplePlayer.csprojResolveAssemblyReference.cache
